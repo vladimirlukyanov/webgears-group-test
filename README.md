@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src="./.imgs/repository-open-graph-template.jpg" alt="Shopify + AWS = <3 ">
+</p>
 
 ## Available Scripts
 
