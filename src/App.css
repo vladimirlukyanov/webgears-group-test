@@ -1,0 +1,73 @@
+.app {
+
+}
+
+.app .col .title {
+  padding:0 0 15px 0;
+}
+
+.card {
+  margin:0 0 25px 0;
+}
+
+.card .inner {
+  padding:10px;
+}
+
+.card .row {
+  padding: 0 0 15px 0;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.card .card-horizontal .img-wrapper {
+  vertical-align: middle;
+  display: flex;
+  align-content: center;
+}
+
+.card .card-horizontal .img-wrapper .inner {
+  padding: 0;
+  margin: auto 0;
+}
+
+.card .card-horizontal .img-wrapper img {
+  width: auto;
+  height: auto;
+  max-width: 100px;
+}
+
+.card .card-horizontal .card-title {
+  margin:0;
+}
+
+.products-list {
+
+}
+
+.products-list .row {
+  padding: 0 0 5px 0;
+}
+
+.app .cart .title {
+  padding:0;
+}
+
+.cart .details {
+  padding:10px 0;
+  border-bottom: 1px solid #333;
+}
+
+.cart .cart-total {
+  padding:10px 0 0 0;
+  font-weight: bold;
+}
+
+
+.cart .cart-total .total .name {
+  display: inline-block;
+  padding-right:50px;
+}
