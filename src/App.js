@@ -85,8 +85,6 @@ const App = () => {
             ...product
         }
 
-        console.log(newCart, index);
-
         setCart(newCart);
     }
 

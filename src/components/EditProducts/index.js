@@ -10,7 +10,6 @@ const EditProducts = ({products = [], onEdit, onDelete}) => {
 
     const handleClick = (e, index) => {
         e.preventDefault();
-        console.log(index);
         onDelete(index);
     }
 
